@@ -19,4 +19,8 @@
 
 1. **[machine-learning-lab](https://github.com/xlxsgit/machine-learning-lab)**: An AI and machine learning resource library will systematically integrate mathematical and physical foundations, algorithm principle derivations, and practical code implementations.
 
-2. **[Repository-for-VCAAN](https://github.com/xlxsgit/Repository-for-VCAAN.git)**: This repository is used to reproduce experimental results from paper *[Imputation for spatiotemporal PM2.5 data via Varying-Coefficient Autoregressive Adversarial Network](https://doi.org/10.1016/j.envsoft.2025.106564)*.
+2. **[laws-rag](https://github.com/xlxsgit/laws-rag)**: A legal text intelligent Q&A system based on Retrieval-Augmented Generation (RAG), using the Company Law of the People's Republic of China as an example to achieve precise retrieval and intelligent questioning of legal provisions.
+
+3. **[Repository-for-VCAAN](https://github.com/xlxsgit/Repository-for-VCAAN)**: This repository is used to reproduce experimental results from paper *[Imputation for spatiotemporal PM2.5 data via Varying-Coefficient Autoregressive Adversarial Network](https://doi.org/10.1016/j.envsoft.2025.106564)*.
+
+
